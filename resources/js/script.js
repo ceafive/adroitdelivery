@@ -42,7 +42,6 @@ icon.removeClass('ion-md-close');
     
     
     /* Scroll for buttons in Header on mouse click */
-    
     $('.js--scroll-to-plans').click(function() {
         $('html, body').animate({scrollTop: $('.js--section-plans').offset().top-50}, 1000);
     });
@@ -54,7 +53,6 @@ icon.removeClass('ion-md-close');
     $('.js--call-us-now').click(function() {
         $('html, body').animate({scrollTop: $('.js--call-us-section').offset().top-50}, 1000);
     });
-    
     
     /* Scrolling to sections on navigation mouse click */
     // Select all links with hashes
