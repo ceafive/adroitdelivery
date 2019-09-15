@@ -91,9 +91,9 @@ h2:after{
     height: 2px;
     background-color: #01C1A8;
     content: " ";
-    width: 100px;
+    width: 300px;
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 20px;
     
 }
 /*------- PARAGRAPHS-------*/
@@ -365,7 +365,7 @@ header {
 
 .steps-box:last-child {
     padding-left: 3%;
-    margin-top: 150px;
+    margin-top: 120px;
 }
 
 .app-screen {
