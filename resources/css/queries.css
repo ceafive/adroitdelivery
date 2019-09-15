@@ -15,6 +15,9 @@
         width: 100%;
         padding: 0 2%;
     }
+    
+
+    
 }
 
 
@@ -62,6 +65,11 @@
     .contact-form {
         width: 80%;
     }
+    
+    h2:after{
+    width: 100px;
+    
+}
     
 }
 
