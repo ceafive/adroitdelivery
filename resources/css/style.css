@@ -350,7 +350,7 @@ header {
         /*----HOW IT WORKS-----*/
 /*-----------------------------------*/
 .section-steps {
-    background-color: #f0f0f0;
+    background-color: rgb(240, 240, 240);
 }
 
 .steps-box {
